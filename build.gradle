@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+wrapper {
+    gradleVersion = "7.0.2"
+}
+
+group 'com.semantic'
+version '1.0-SNAPSHOT'
